@@ -1,3 +1,5 @@
+This is an issue reproduction repository for [Nuxt Local Server Gets Stuck #6442](https://github.com/nuxt/nuxt.js/issues/6442).
+
 # Instructions (Windows 10 only!)
 
 ## Entry points
@@ -23,3 +25,6 @@ To demonstrate a "fix" (really a workaround) for the issue, run `install-in-seri
 ```html
 <h1>Is nuxt development server getting stuck?</h1>
 ```
+
+# Licence
+[MIT](./LICENSE)
