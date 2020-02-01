@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-stuck-001",
+  "name": "issue-reproduction-nuxt-6442",
   "version": "1.0.0",
   "dependencies": {
     "@nuxt/typescript-build": "0.5.6",
